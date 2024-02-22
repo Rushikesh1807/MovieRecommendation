@@ -5,7 +5,7 @@ This project implements a content-based movie recommender system using cosine si
 <h3>Features</h3>
 Recommends movies similar to a given movie based on content features such as genres, keywords, and overview.
 Calculates cosine similarity between movies' feature vectors to determine their similarity.
-<h3>Requirements<h3>
+<h3>Requirements</h3>h3>
 Python 3.x<br>
 Pandas<br>
 NumPy<br>
